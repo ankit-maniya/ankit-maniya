@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankit-maniya
 - 👀 I’m interested in js as a MERN stack developer
-- 🌱 I’m currently working MERN stack
+- 🌱 I’m currently working in MERN stack
 - 📫 How to reach me : using mail ankit.maniya6588@gmail.com
 
 <!---
