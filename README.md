@@ -2,7 +2,7 @@
 - 👀 I’m interested in js as a MERN stack developer
 - 🌱 I’m currently working in MERN stack
 - 📫 How to reach me : using mail ankit.maniya6588@gmail.com
-- Protfolio Website: https://studytaskapk.vercel.app/
+- Protfolio Website: https://ankitmaniya.vercel.app/
 
 <!---
 ankit-maniya/ankit-maniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
