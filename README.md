@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Ankit Maniya, a passionate MERN stack developer.
-- 👀 I thrive on the endless possibilities of JavaScript, exploring the realms of the MERN stack to build dynamic and innovative web applications.
-- 🌱 Currently, I'm immersed in the MERN (MongoDB, Express.js, React, Node.js) stack, honing my skills and crafting exceptional digital experiences.
+- 👋 Hi, I’m Ankit Maniya, a passionate full stack developer.
 - 📫 You can reach out to me via email at ankit.maniya6588@gmail.com.
 - 🚀 Check out my portfolio see some of my projects: [Ankit Maniya's Portfolio](https://www.linkedin.com/in/ankit-maniya/).
 
