@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ankit Maniya, a passionate full stack developer.
+- 👋 Hi, I’m Ankit Maniya, a passionate software developer.
 - 📫 You can reach out to me via email at ankit.maniya6588@gmail.com.
 - 🚀 Check out my portfolio see some of my projects: [Ankit Maniya's Portfolio](https://www.linkedin.com/in/ankit-maniya/).
 
